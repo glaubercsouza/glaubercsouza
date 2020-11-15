@@ -3,7 +3,7 @@
 
 My name is Glauber Souza, I'm studying System Analysis and Development and always in search of knowledge.
 
-- 💻 I’m currently learning **UML**, **HTML**, **CSS** and **JavaScript**
+- 💻 I’m currently learning **HTML**, **CSS** and **JavaScript**
 - 📫 How to reach me: **glauber_costa14@yahoo.com.br**
 
 <a href="https://www.linkedin.com/in/glauber-souza-30253795/" target="_blank"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/sociallinkedin_member_30.ico" alt="linkedin" width="40"/></a>
