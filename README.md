@@ -3,7 +3,7 @@
 <p>My name is Glauber Souza, I'm studying System Analysis and Development and always in search of knowledge.</p>
 
 <ul>
-  <li>💻 I’m currently learning <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript<strong></li>
+  <li>💻 I’m currently learning <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong></li>
   <li>📫 How to reach me: <strong>glauber_costa14@yahoo.com.br</strong></li>
 </ul>
 
