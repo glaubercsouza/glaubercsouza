@@ -1,29 +1,20 @@
-<h1>Hi there!! &#129304;&#127995;</h1>
+# Hi there!! &#129304;&#127995;
 
-<p>My name is Glauber Souza, I'm studying System Analysis and Development and always in search of knowledge.</p>
+My name is Glauber Souza, I'm studying System Analysis and Development and always in search of knowledge.
 
-<ul>
-  <li>💻 I’m currently learning <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> and <strong>C</strong>.</li>
-  <li>📫 How to reach me: <strong>glauber_costa14@yahoo.com.br</strong></li>
-</ul>
+* 💻 I’m currently learning **HTML**, **CSS**, **JavaScript** and **Java**.
+* 📫 How to reach me: **glauber_costa14@yahoo.com.br**
 
-<a href="https://www.linkedin.com/in/glauber-souza-30253795/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/linkedin-f.png" alt="linkedin" width=25 height=25/></a>
-<a href="https://www.instagram.com/glauber.csouza/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/instagram-f.png" alt="instagram" width=25 height=25/></a>
-<a href="https://www.facebook.com/glaubercsouza/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/facebook-f.png" alt="facebook" width=25 height=25/></a>
+## My GitHub Stats
 
-<!--
-**glaubercsouza/glaubercsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubercsouza&theme=react)
 
-Here are some ideas to get you started:
+## Find Me On...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](images/linkedin-f.png)](https://www.linkedin.com/in/glauber-souza-30253795/) [![](images/instagram-f.png)](https://www.instagram.com/glauber.csouza/)  [![](images/facebook-f.png)](https://www.facebook.com/glaubercsouza/) 
 
-
+<!---
+<a href="https://www.linkedin.com/in/glauber-souza-30253795/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/linkedin-f.png" alt="linkedin" width=35 height=35/></a>
+<a href="https://www.instagram.com/glauber.csouza/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/instagram-f.png" alt="instagram" width=35 height=35/></a>
+<a href="https://www.facebook.com/glaubercsouza/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/facebook-f.png" alt="facebook" width=35 height=35/></a>
+--
