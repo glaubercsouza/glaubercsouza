@@ -7,6 +7,8 @@
   <li>📫 How to reach me: <strong>glauber_costa14@yahoo.com.br</strong></li>
 </ul>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubercsouza&theme=chartreuse-dark)
+
 <a href="https://www.linkedin.com/in/glauber-souza-30253795/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/linkedin-f.png" alt="linkedin" width=25 height=25/></a>
 <a href="https://www.instagram.com/glauber.csouza/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/instagram-f.png" alt="instagram" width=25 height=25/></a>
 <a href="https://www.facebook.com/glaubercsouza/" target="_blank" rel="external"><img src="https://github.com/glaubercsouza/glaubercsouza/blob/main/images/facebook-f.png" alt="facebook" width=25 height=25/></a>
