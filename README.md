@@ -7,7 +7,7 @@ My name is Glauber Souza, I'm studying System Analysis and Development and alway
 
 ## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubercsouza&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubercsouza&theme=react&layout=compact)
 
 ## Find Me On...
 
