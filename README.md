@@ -2,7 +2,7 @@
 
 My name is Glauber Souza, I'm studying System Analysis and Development and always in search of knowledge.
 
-* 💻 I’m currently learning **HTML**, **CSS**, **JavaScript** and **Java**.
+* 💻 I’m currently learning **Java**.
 * 📫 How to reach me: **glauber_costa14@yahoo.com.br**
 
 ## My GitHub Stats
