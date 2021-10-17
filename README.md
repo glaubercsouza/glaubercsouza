@@ -12,4 +12,4 @@ My name is Glauber Souza, I'm studying System Analysis and Development and alway
 
 ## Find Me On...
 
-[![](images/linkedin-f.png)](https://www.linkedin.com/in/glauber-souza-30253795/) [![](images/instagram-f.png)](https://www.instagram.com/glauber.csouza/)  [![](images/facebook-f.png)](https://www.facebook.com/glaubercsouza/) 
+[![](images/linkedin-f.png)](https://www.linkedin.com/in/glaubercsouza/) [![](images/instagram-f.png)](https://www.instagram.com/glauber.csouza/)  [![](images/facebook-f.png)](https://www.facebook.com/glaubercsouza/) 
