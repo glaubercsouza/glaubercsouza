@@ -6,10 +6,6 @@ My name is Glauber Souza, I'm studying System Analysis and Development and alway
 * 📫 How to reach me: **glauber_costa14@yahoo.com.br**
 * 🎓 Check my portfolio at: **[glaubercsouza.github.io/glaubercsouza-portfolio/](https://glaubercsouza.github.io/glaubercsouza-portfolio/)**
 
-## My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubercsouza&theme=react&layout=compact) 
-<!--- [![Glauber Souza's GitHub stats](https://github-readme-stats.vercel.app/api  ?username=glaubercsouza&hide=contribs&count_private=true&show_icons=true&theme=react&line_height=24&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) --->
 
 ## Find Me On... 
 
